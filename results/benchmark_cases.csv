@@ -1,0 +1,1001 @@
+seed,base_cost,base_feasible,num_positive_candidates,top_delta,gt_size,example_explanation
+0,inf,0,0,0.0,0,
+1,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+2,28.0,1,0,0.0,0,
+3,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+4,28.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+5,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+6,28.0,1,0,0.0,0,
+7,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+8,22.0,1,2,4.0,2,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+9,42.0,1,3,16.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+10,inf,0,0,0.0,0,
+11,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+12,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+13,26.0,1,3,4.0,3,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+14,inf,0,0,0.0,0,
+15,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+16,32.0,1,3,7.0,3,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+17,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+18,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+19,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+20,inf,0,0,0.0,0,
+21,28.0,1,0,0.0,0,
+22,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+23,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+24,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+25,28.0,1,0,0.0,0,
+26,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+27,28.0,1,0,0.0,0,
+28,32.0,1,2,10.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+29,28.0,1,0,0.0,0,
+30,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+31,25.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+32,28.0,1,0,0.0,0,
+33,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+34,inf,0,0,0.0,0,
+35,28.0,1,0,0.0,0,
+36,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+37,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+38,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+39,28.0,1,0,0.0,0,
+40,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+41,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+42,inf,0,0,0.0,0,
+43,28.0,1,0,0.0,0,
+44,29.0,1,3,7.0,3,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+45,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+46,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+47,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+48,39.0,1,2,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+49,28.0,1,0,0.0,0,
+50,28.0,1,0,0.0,0,
+51,22.0,1,2,4.0,2,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+52,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+53,28.0,1,0,0.0,0,
+54,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+55,28.0,1,0,0.0,0,
+56,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+57,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+58,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+59,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+60,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+61,28.0,1,0,0.0,0,
+62,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+63,28.0,1,0,0.0,0,
+64,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+65,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+66,25.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+67,32.0,1,4,4.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+68,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+69,inf,0,0,0.0,0,
+70,32.0,1,4,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+71,inf,0,0,0.0,0,
+72,inf,0,0,0.0,0,
+73,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+74,inf,0,0,0.0,0,
+75,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+76,inf,0,0,0.0,0,
+77,inf,0,0,0.0,0,
+78,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+79,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+80,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+81,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+82,28.0,1,0,0.0,0,
+83,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+84,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+85,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+86,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+87,28.0,1,0,0.0,0,
+88,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+89,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+90,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+91,25.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+92,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+93,28.0,1,0,0.0,0,
+94,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+95,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+96,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+97,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+98,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+99,26.0,1,3,4.0,3,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+100,25.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+101,39.0,1,2,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+102,28.0,1,0,0.0,0,
+103,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+104,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+105,28.0,1,0,0.0,0,
+106,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+107,inf,0,2,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+108,inf,0,0,0.0,0,
+109,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+110,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+111,25.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+112,inf,0,2,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+113,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+114,inf,0,0,0.0,0,
+115,inf,0,0,0.0,0,
+116,inf,0,1,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+117,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+118,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+119,inf,0,0,0.0,0,
+120,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+121,28.0,1,3,6.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+122,28.0,1,0,0.0,0,
+123,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+124,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+125,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+126,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+127,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+128,inf,0,0,0.0,0,
+129,inf,0,0,0.0,0,
+130,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+131,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+132,42.0,1,2,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+133,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+134,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+135,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+136,36.0,1,5,8.0,4,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+137,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+138,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+139,28.0,1,0,0.0,0,
+140,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+141,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+142,28.0,1,0,0.0,0,
+143,22.0,1,2,4.0,2,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+144,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+145,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+146,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+147,inf,0,0,0.0,0,
+148,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+149,inf,0,2,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+150,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+151,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+152,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+153,28.0,1,0,0.0,0,
+154,25.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+155,inf,0,0,0.0,0,
+156,26.0,1,3,4.0,3,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+157,28.0,1,0,0.0,0,
+158,inf,0,0,0.0,0,
+159,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+160,32.0,1,3,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+161,28.0,1,0,0.0,0,
+162,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+163,28.0,1,0,0.0,0,
+164,28.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+165,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+166,28.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+167,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+168,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+169,inf,0,0,0.0,0,
+170,inf,0,0,0.0,0,
+171,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+172,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+173,36.0,1,3,11.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+174,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+175,inf,0,0,0.0,0,
+176,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+177,28.0,1,1,10.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+178,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+179,inf,0,0,0.0,0,
+180,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+181,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+182,inf,0,0,0.0,0,
+183,28.0,1,0,0.0,0,
+184,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+185,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+186,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+187,inf,0,0,0.0,0,
+188,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+189,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+190,inf,0,0,0.0,0,
+191,inf,0,0,0.0,0,
+192,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+193,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+194,42.0,1,2,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+195,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+196,inf,0,0,0.0,0,
+197,inf,0,0,0.0,0,
+198,inf,0,1,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+199,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+200,28.0,1,0,0.0,0,
+201,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+202,29.0,1,4,7.0,3,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+203,36.0,1,3,18.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+204,32.0,1,4,7.0,3,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+205,inf,0,2,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+206,inf,0,2,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+207,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+208,inf,0,0,0.0,0,
+209,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+210,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+211,28.0,1,0,0.0,0,
+212,inf,0,0,0.0,0,
+213,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+214,28.0,1,0,0.0,0,
+215,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+216,28.0,1,0,0.0,0,
+217,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+218,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+219,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+220,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+221,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+222,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+223,inf,0,0,0.0,0,
+224,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+225,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+226,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+227,32.0,1,3,7.0,3,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+228,28.0,1,0,0.0,0,
+229,inf,0,0,0.0,0,
+230,inf,0,0,0.0,0,
+231,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+232,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+233,28.0,1,0,0.0,0,
+234,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+235,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+236,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+237,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+238,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+239,inf,0,1,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+240,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+241,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+242,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+243,28.0,1,0,0.0,0,
+244,36.0,1,2,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+245,inf,0,0,0.0,0,
+246,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+247,28.0,1,0,0.0,0,
+248,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+249,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+250,28.0,1,0,0.0,0,
+251,32.0,1,4,7.0,3,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+252,inf,0,0,0.0,0,
+253,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+254,28.0,1,0,0.0,0,
+255,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+256,28.0,1,0,0.0,0,
+257,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+258,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+259,32.0,1,2,4.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+260,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+261,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+262,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+263,28.0,1,0,0.0,0,
+264,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+265,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+266,32.0,1,3,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+267,28.0,1,0,0.0,0,
+268,39.0,1,2,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+269,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+270,28.0,1,0,0.0,0,
+271,inf,0,0,0.0,0,
+272,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+273,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+274,28.0,1,1,7.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+275,inf,0,0,0.0,0,
+276,inf,0,0,0.0,0,
+277,inf,0,0,0.0,0,
+278,inf,0,0,0.0,0,
+279,28.0,1,0,0.0,0,
+280,28.0,1,0,0.0,0,
+281,28.0,1,1,7.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+282,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+283,28.0,1,0,0.0,0,
+284,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+285,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+286,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+287,28.0,1,0,0.0,0,
+288,28.0,1,0,0.0,0,
+289,28.0,1,0,0.0,0,
+290,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+291,inf,0,0,0.0,0,
+292,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+293,28.0,1,0,0.0,0,
+294,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+295,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+296,inf,0,0,0.0,0,
+297,inf,0,0,0.0,0,
+298,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+299,28.0,1,0,0.0,0,
+300,28.0,1,0,0.0,0,
+301,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+302,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+303,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+304,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+305,28.0,1,0,0.0,0,
+306,inf,0,0,0.0,0,
+307,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+308,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+309,22.0,1,2,4.0,2,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+310,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+311,inf,0,0,0.0,0,
+312,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+313,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+314,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+315,28.0,1,0,0.0,0,
+316,32.0,1,2,14.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+317,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+318,inf,0,0,0.0,0,
+319,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+320,28.0,1,0,0.0,0,
+321,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+322,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+323,inf,0,0,0.0,0,
+324,28.0,1,0,0.0,0,
+325,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+326,inf,0,1,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+327,36.0,1,2,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+328,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+329,42.0,1,2,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+330,inf,0,0,0.0,0,
+331,28.0,1,0,0.0,0,
+332,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+333,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+334,25.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+335,28.0,1,0,0.0,0,
+336,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+337,inf,0,0,0.0,0,
+338,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+339,28.0,1,1,7.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+340,inf,0,0,0.0,0,
+341,inf,0,0,0.0,0,
+342,inf,0,0,0.0,0,
+343,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+344,39.0,1,2,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+345,inf,0,0,0.0,0,
+346,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+347,28.0,1,3,6.0,3,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+348,42.0,1,2,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+349,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+350,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+351,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+352,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+353,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+354,32.0,1,2,14.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+355,28.0,1,0,0.0,0,
+356,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+357,22.0,1,2,4.0,2,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+358,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+359,39.0,1,3,18.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+360,35.0,1,2,17.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+361,inf,0,0,0.0,0,
+362,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+363,28.0,1,0,0.0,0,
+364,28.0,1,0,0.0,0,
+365,28.0,1,0,0.0,0,
+366,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+367,inf,0,0,0.0,0,
+368,35.0,1,2,7.0,1,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+369,28.0,1,0,0.0,0,
+370,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+371,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+372,inf,0,0,0.0,0,
+373,22.0,1,2,4.0,2,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+374,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+375,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+376,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+377,inf,0,1,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+378,25.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+379,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+380,35.0,1,2,14.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+381,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+382,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+383,28.0,1,0,0.0,0,
+384,28.0,1,0,0.0,0,
+385,28.0,1,0,0.0,0,
+386,inf,0,0,0.0,0,
+387,inf,0,0,0.0,0,
+388,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+389,28.0,1,0,0.0,0,
+390,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+391,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+392,28.0,1,0,0.0,0,
+393,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+394,25.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+395,28.0,1,0,0.0,0,
+396,inf,0,0,0.0,0,
+397,inf,0,0,0.0,0,
+398,inf,0,0,0.0,0,
+399,28.0,1,0,0.0,0,
+400,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+401,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+402,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+403,28.0,1,1,10.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+404,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+405,28.0,1,0,0.0,0,
+406,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+407,43.0,1,3,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+408,inf,0,0,0.0,0,
+409,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+410,39.0,1,2,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+411,32.0,1,2,14.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+412,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+413,inf,0,0,0.0,0,
+414,28.0,1,0,0.0,0,
+415,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+416,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+417,inf,0,0,0.0,0,
+418,inf,0,0,0.0,0,
+419,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+420,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+421,inf,0,0,0.0,0,
+422,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+423,inf,0,0,0.0,0,
+424,28.0,1,0,0.0,0,
+425,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+426,28.0,1,1,10.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+427,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+428,inf,0,0,0.0,0,
+429,36.0,1,5,8.0,4,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+430,40.0,1,6,8.0,3,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+431,29.0,1,4,7.0,3,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+432,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+433,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+434,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+435,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+436,28.0,1,0,0.0,0,
+437,inf,0,0,0.0,0,
+438,inf,0,0,0.0,0,
+439,28.0,1,0,0.0,0,
+440,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+441,25.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+442,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+443,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+444,inf,0,0,0.0,0,
+445,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+446,29.0,1,4,7.0,3,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+447,28.0,1,0,0.0,0,
+448,inf,0,0,0.0,0,
+449,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+450,28.0,1,0,0.0,0,
+451,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+452,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+453,28.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+454,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+455,40.0,1,6,12.0,4,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+456,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+457,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+458,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+459,28.0,1,0,0.0,0,
+460,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+461,inf,0,0,0.0,0,
+462,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+463,32.0,1,2,14.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+464,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+465,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+466,22.0,1,2,4.0,2,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+467,inf,0,0,0.0,0,
+468,inf,0,0,0.0,0,
+469,inf,0,0,0.0,0,
+470,inf,0,0,0.0,0,
+471,28.0,1,0,0.0,0,
+472,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+473,inf,0,0,0.0,0,
+474,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+475,inf,0,0,0.0,0,
+476,inf,0,0,0.0,0,
+477,inf,0,0,0.0,0,
+478,28.0,1,0,0.0,0,
+479,39.0,1,2,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+480,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+481,inf,0,0,0.0,0,
+482,28.0,1,0,0.0,0,
+483,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+484,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+485,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+486,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+487,inf,0,0,0.0,0,
+488,28.0,1,0,0.0,0,
+489,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+490,36.0,1,2,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+491,inf,0,0,0.0,0,
+492,inf,0,0,0.0,0,
+493,inf,0,0,0.0,0,
+494,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+495,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+496,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+497,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+498,28.0,1,0,0.0,0,
+499,28.0,1,0,0.0,0,
+500,inf,0,0,0.0,0,
+501,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+502,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+503,25.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+504,28.0,1,0,0.0,0,
+505,inf,0,0,0.0,0,
+506,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+507,28.0,1,0,0.0,0,
+508,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+509,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+510,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+511,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+512,28.0,1,0,0.0,0,
+513,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+514,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+515,35.0,1,2,17.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+516,28.0,1,0,0.0,0,
+517,35.0,1,2,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+518,39.0,1,2,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+519,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+520,35.0,1,2,10.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+521,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+522,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+523,28.0,1,0,0.0,0,
+524,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+525,inf,0,0,0.0,0,
+526,28.0,1,0,0.0,0,
+527,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+528,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+529,39.0,1,5,11.0,4,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+530,inf,0,0,0.0,0,
+531,inf,0,0,0.0,0,
+532,inf,0,1,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+533,inf,0,0,0.0,0,
+534,28.0,1,0,0.0,0,
+535,35.0,1,2,14.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+536,inf,0,0,0.0,0,
+537,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+538,28.0,1,0,0.0,0,
+539,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+540,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+541,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+542,28.0,1,3,6.0,3,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+543,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+544,inf,0,0,0.0,0,
+545,25.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+546,28.0,1,1,7.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+547,28.0,1,0,0.0,0,
+548,inf,0,1,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+549,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+550,inf,0,0,0.0,0,
+551,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+552,inf,0,0,0.0,0,
+553,inf,0,1,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+554,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+555,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+556,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+557,28.0,1,0,0.0,0,
+558,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+559,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+560,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+561,28.0,1,0,0.0,0,
+562,inf,0,0,0.0,0,
+563,28.0,1,0,0.0,0,
+564,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+565,inf,0,0,0.0,0,
+566,28.0,1,0,0.0,0,
+567,28.0,1,0,0.0,0,
+568,inf,0,0,0.0,0,
+569,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+570,inf,0,0,0.0,0,
+571,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+572,28.0,1,0,0.0,0,
+573,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+574,inf,0,0,0.0,0,
+575,inf,0,1,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+576,inf,0,0,0.0,0,
+577,32.0,1,2,4.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+578,28.0,1,0,0.0,0,
+579,28.0,1,0,0.0,0,
+580,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+581,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+582,29.0,1,3,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+583,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+584,28.0,1,0,0.0,0,
+585,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+586,28.0,1,0,0.0,0,
+587,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+588,28.0,1,0,0.0,0,
+589,42.0,1,2,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+590,inf,0,2,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+591,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+592,inf,0,1,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+593,35.0,1,4,7.0,3,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+594,inf,0,0,0.0,0,
+595,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+596,26.0,1,3,4.0,3,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+597,inf,0,0,0.0,0,
+598,28.0,1,0,0.0,0,
+599,inf,0,0,0.0,0,
+600,inf,0,0,0.0,0,
+601,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+602,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+603,28.0,1,0,0.0,0,
+604,28.0,1,0,0.0,0,
+605,28.0,1,1,7.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+606,39.0,1,6,7.0,4,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+607,28.0,1,0,0.0,0,
+608,42.0,1,3,21.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+609,28.0,1,0,0.0,0,
+610,inf,0,0,0.0,0,
+611,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+612,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+613,28.0,1,0,0.0,0,
+614,28.0,1,0,0.0,0,
+615,22.0,1,2,4.0,2,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+616,28.0,1,0,0.0,0,
+617,inf,0,0,0.0,0,
+618,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+619,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+620,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+621,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+622,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+623,32.0,1,2,11.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+624,28.0,1,0,0.0,0,
+625,28.0,1,0,0.0,0,
+626,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+627,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+628,inf,0,0,0.0,0,
+629,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+630,28.0,1,0,0.0,0,
+631,28.0,1,0,0.0,0,
+632,28.0,1,0,0.0,0,
+633,28.0,1,0,0.0,0,
+634,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+635,28.0,1,0,0.0,0,
+636,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+637,28.0,1,0,0.0,0,
+638,inf,0,0,0.0,0,
+639,inf,0,0,0.0,0,
+640,28.0,1,0,0.0,0,
+641,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+642,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+643,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+644,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+645,inf,0,1,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+646,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+647,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+648,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+649,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+650,inf,0,2,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+651,28.0,1,0,0.0,0,
+652,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+653,inf,0,0,0.0,0,
+654,inf,0,0,0.0,0,
+655,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+656,28.0,1,0,0.0,0,
+657,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+658,32.0,1,2,11.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+659,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+660,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+661,28.0,1,0,0.0,0,
+662,28.0,1,0,0.0,0,
+663,inf,0,0,0.0,0,
+664,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+665,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+666,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+667,39.0,1,2,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+668,28.0,1,1,6.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+669,28.0,1,0,0.0,0,
+670,inf,0,0,0.0,0,
+671,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+672,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+673,28.0,1,0,0.0,0,
+674,28.0,1,0,0.0,0,
+675,28.0,1,0,0.0,0,
+676,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+677,28.0,1,0,0.0,0,
+678,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+679,inf,0,0,0.0,0,
+680,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+681,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+682,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+683,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+684,inf,0,0,0.0,0,
+685,28.0,1,0,0.0,0,
+686,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+687,inf,0,0,0.0,0,
+688,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+689,28.0,1,0,0.0,0,
+690,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+691,43.0,1,3,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+692,32.0,1,2,11.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+693,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+694,inf,0,0,0.0,0,
+695,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+696,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+697,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+698,inf,0,0,0.0,0,
+699,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+700,inf,0,0,0.0,0,
+701,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+702,28.0,1,0,0.0,0,
+703,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+704,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+705,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+706,inf,0,0,0.0,0,
+707,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+708,49.0,1,3,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+709,inf,0,0,0.0,0,
+710,28.0,1,0,0.0,0,
+711,33.0,1,4,7.0,4,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+712,inf,0,1,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+713,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+714,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+715,inf,0,0,0.0,0,
+716,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+717,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+718,32.0,1,4,7.0,3,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+719,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+720,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+721,inf,0,0,0.0,0,
+722,28.0,1,0,0.0,0,
+723,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+724,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+725,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+726,inf,0,1,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+727,inf,0,0,0.0,0,
+728,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+729,28.0,1,0,0.0,0,
+730,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+731,46.0,1,3,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+732,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+733,28.0,1,1,3.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+734,28.0,1,0,0.0,0,
+735,28.0,1,0,0.0,0,
+736,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+737,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+738,inf,0,2,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+739,22.0,1,2,4.0,2,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+740,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+741,28.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+742,inf,0,0,0.0,0,
+743,36.0,1,2,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+744,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+745,28.0,1,0,0.0,0,
+746,28.0,1,0,0.0,0,
+747,inf,0,0,0.0,0,
+748,28.0,1,0,0.0,0,
+749,inf,0,0,0.0,0,
+750,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+751,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+752,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+753,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+754,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+755,inf,0,0,0.0,0,
+756,inf,0,0,0.0,0,
+757,28.0,1,0,0.0,0,
+758,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+759,inf,0,0,0.0,0,
+760,28.0,1,1,6.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+761,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+762,inf,0,0,0.0,0,
+763,28.0,1,0,0.0,0,
+764,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+765,28.0,1,0,0.0,0,
+766,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+767,28.0,1,0,0.0,0,
+768,inf,0,0,0.0,0,
+769,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+770,28.0,1,0,0.0,0,
+771,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+772,32.0,1,2,14.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+773,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+774,36.0,1,5,8.0,3,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+775,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+776,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+777,28.0,1,0,0.0,0,
+778,inf,0,0,0.0,0,
+779,28.0,1,0,0.0,0,
+780,29.0,1,4,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+781,inf,0,0,0.0,0,
+782,28.0,1,0,0.0,0,
+783,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+784,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+785,39.0,1,2,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+786,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+787,28.0,1,0,0.0,0,
+788,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+789,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+790,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+791,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+792,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+793,28.0,1,0,0.0,0,
+794,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+795,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+796,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+797,inf,0,0,0.0,0,
+798,inf,0,0,0.0,0,
+799,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+800,28.0,1,0,0.0,0,
+801,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+802,inf,0,0,0.0,0,
+803,28.0,1,0,0.0,0,
+804,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+805,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+806,inf,0,0,0.0,0,
+807,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+808,inf,0,0,0.0,0,
+809,inf,0,0,0.0,0,
+810,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+811,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+812,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+813,inf,0,0,0.0,0,
+814,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+815,inf,0,0,0.0,0,
+816,28.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+817,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+818,inf,0,0,0.0,0,
+819,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+820,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+821,28.0,1,0,0.0,0,
+822,32.0,1,4,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+823,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+824,inf,0,0,0.0,0,
+825,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+826,28.0,1,0,0.0,0,
+827,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+828,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+829,28.0,1,1,10.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+830,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+831,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+832,28.0,1,0,0.0,0,
+833,28.0,1,0,0.0,0,
+834,inf,0,0,0.0,0,
+835,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+836,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+837,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+838,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+839,28.0,1,0,0.0,0,
+840,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+841,inf,0,0,0.0,0,
+842,inf,0,0,0.0,0,
+843,28.0,1,0,0.0,0,
+844,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+845,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+846,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+847,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+848,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+849,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+850,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+851,28.0,1,1,2.0,1,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+852,inf,0,0,0.0,0,
+853,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+854,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+855,28.0,1,0,0.0,0,
+856,28.0,1,0,0.0,0,
+857,28.0,1,0,0.0,0,
+858,28.0,1,0,0.0,0,
+859,28.0,1,0,0.0,0,
+860,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+861,29.0,1,3,7.0,3,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+862,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+863,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+864,28.0,1,0,0.0,0,
+865,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+866,28.0,1,0,0.0,0,
+867,inf,0,0,0.0,0,
+868,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+869,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+870,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+871,28.0,1,0,0.0,0,
+872,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+873,inf,0,0,0.0,0,
+874,inf,0,0,0.0,0,
+875,inf,0,0,0.0,0,
+876,28.0,1,0,0.0,0,
+877,28.0,1,0,0.0,0,
+878,28.0,1,0,0.0,0,
+879,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+880,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+881,inf,0,0,0.0,0,
+882,28.0,1,1,10.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+883,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+884,42.0,1,2,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+885,28.0,1,0,0.0,0,
+886,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+887,28.0,1,0,0.0,0,
+888,28.0,1,0,0.0,0,
+889,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+890,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+891,42.0,1,3,9.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+892,inf,0,2,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+893,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+894,inf,0,0,0.0,0,
+895,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+896,inf,0,0,0.0,0,
+897,inf,0,0,0.0,0,
+898,28.0,1,1,3.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+899,28.0,1,0,0.0,0,
+900,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+901,inf,0,1,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+902,28.0,1,0,0.0,0,
+903,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+904,28.0,1,0,0.0,0,
+905,28.0,1,0,0.0,0,
+906,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+907,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+908,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+909,22.0,1,2,4.0,2,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+910,28.0,1,0,0.0,0,
+911,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+912,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+913,28.0,1,0,0.0,0,
+914,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+915,inf,0,1,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+916,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+917,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+918,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+919,28.0,1,1,2.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+920,39.0,1,2,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+921,28.0,1,0,0.0,0,
+922,22.0,1,2,4.0,2,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+923,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+924,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+925,35.0,1,1,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+926,inf,0,0,0.0,0,
+927,28.0,1,0,0.0,0,
+928,29.0,1,3,7.0,3,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+929,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+930,inf,0,0,0.0,0,
+931,42.0,1,2,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+932,28.0,1,0,0.0,0,
+933,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+934,28.0,1,0,0.0,0,
+935,inf,0,0,0.0,0,
+936,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+937,28.0,1,0,0.0,0,
+938,28.0,1,0,0.0,0,
+939,inf,0,0,0.0,0,
+940,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+941,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+942,inf,0,0,0.0,0,
+943,inf,0,1,1000.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+944,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+945,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+946,28.0,1,0,0.0,0,
+947,inf,0,0,0.0,0,
+948,inf,0,0,0.0,0,
+949,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+950,35.0,1,2,10.0,0,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+951,inf,0,0,0.0,0,
+952,25.0,1,2,7.0,2,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+953,inf,0,1,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+954,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+955,inf,0,0,0.0,0,
+956,inf,0,0,0.0,0,
+957,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+958,inf,0,2,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+959,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+960,inf,0,0,0.0,0,
+961,inf,0,0,0.0,0,
+962,inf,0,2,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+963,28.0,1,0,0.0,0,
+964,28.0,1,0,0.0,0,
+965,28.0,1,0,0.0,0,
+966,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the openable affordance so that I can continue safely.
+967,inf,0,1,1000.0,0,Please make the cabinet back of me satisfy the movable affordance so that I can continue safely.
+968,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+969,28.0,1,0,0.0,0,
+970,inf,0,2,1000.0,1,Please make the chair right of me satisfy the movable affordance so that I can continue safely.
+971,28.0,1,0,0.0,0,
+972,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+973,28.0,1,0,0.0,0,
+974,inf,0,2,1000.0,0,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+975,35.0,1,1,7.0,0,Please make the person back of me satisfy the movable affordance so that I can continue safely.
+976,inf,0,0,0.0,0,
+977,32.0,1,1,4.0,0,Please make the door right of me satisfy the openable affordance so that I can continue safely.
+978,28.0,1,0,0.0,0,
+979,28.0,1,0,0.0,0,
+980,inf,0,0,0.0,0,
+981,28.0,1,0,0.0,0,
+982,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.
+983,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+984,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+985,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+986,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+987,32.0,1,1,4.0,0,Please make the door back of me satisfy the openable affordance so that I can continue safely.
+988,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the openable affordance so that I can continue safely.
+989,28.0,1,0,0.0,0,
+990,28.0,1,0,0.0,0,
+991,28.0,1,0,0.0,0,
+992,inf,0,0,0.0,0,
+993,inf,0,1,1000.0,0,Please make the chair back of me satisfy the movable affordance so that I can continue safely.
+994,inf,0,0,0.0,0,
+995,28.0,1,0,0.0,0,
+996,inf,0,1,1000.0,0,Please make the cabinet right of me satisfy the movable affordance so that I can continue safely.
+997,49.0,1,3,7.0,0,Please make the person right of me satisfy the movable affordance so that I can continue safely.
+998,inf,0,2,1000.0,1,Please make the cart right of me satisfy the movable affordance so that I can continue safely.
+999,inf,0,1,1000.0,0,Please make the cart back of me satisfy the movable affordance so that I can continue safely.

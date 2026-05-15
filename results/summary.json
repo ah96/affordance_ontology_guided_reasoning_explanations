@@ -1,0 +1,11 @@
+{
+  "num_envs": 1000,
+  "finite_base_fraction": 0.452,
+  "cases_with_ground_truth_fraction": 0.189,
+  "mean_positive_candidates": 0.878,
+  "mean_top_delta_positive_cases": 597.1810897435897,
+  "ontology_precision_at_2": 0.7751322751322751,
+  "ontology_recall_at_2": 0.9294532627865962,
+  "baseline_precision_at_2": 0.6058201058201058,
+  "baseline_recall_at_2": 0.8218694885361552
+}
