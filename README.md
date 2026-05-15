@@ -1,6 +1,6 @@
 # Ontology-Guided Affordance Reasoning for Explainable and Reliable Robot Navigation
 
-This package contains a lightweight, fully Python-based prototype accompanying a workshop paper on ontology-guided affordance reasoning for robot navigation explanations.
+This package contains a lightweight, fully Python-based prototype accompanying an ICRA workshop paper on ontology-guided affordance reasoning for robot navigation explanations.
 
 ## Overview
 
