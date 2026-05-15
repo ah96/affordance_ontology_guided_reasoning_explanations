@@ -15,9 +15,6 @@ Instead of only detecting obstacles geometrically, the method reasons about:
 
 ## Files
 
-- `main.tex`  
-  Full LaTeX workshop paper draft.
-
 - `refs.bib`  
   BibTeX references for the paper.
 
