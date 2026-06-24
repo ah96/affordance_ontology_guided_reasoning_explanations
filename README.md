@@ -1,6 +1,6 @@
 # Ontology-Guided Affordance Reasoning for Explainable and Reliable Robot Navigation
 
-This package contains a lightweight, fully Python-based prototype accompanying a paper submitted to the [ICRA 2026 Workshop on Semantics for Reliable Robot Autonomy](https://www.dynsyslab.org/icra2026-workshop-on-semantics-for-reliable-robot-autonomy/) on ontology-guided affordance reasoning for robot navigation explanations.
+This package contains a lightweight, fully Python-based prototype accompanying a paper published at the [ICRA 2026 Workshop on Semantics for Reliable Robot Autonomy](https://www.dynsyslab.org/icra2026-workshop-on-semantics-for-reliable-robot-autonomy/) on ontology-guided affordance reasoning for robot navigation explanations.
 
 ## Overview
 
